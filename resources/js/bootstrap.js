@@ -27,6 +27,7 @@ window.Echo = new Echo({
     host: window.location.hostname + ':6001', // this is laravel-echo-server host
     auth: {
         headers: {
+            //app key
             Authorization: 'Bearer 8758cadac1647281e17897ac8eee9170',
         }
     }

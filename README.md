@@ -1,5 +1,5 @@
 # basic-laravel-chat
-Basic public chat page made with Redis Laravel Socket.io. To show the basis functionality of socket.io and Redis.
+Basic public chat page to show the functionality of socket.io and Redis.
 
 ## Main technologies
 Project is created with:
